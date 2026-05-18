@@ -37,11 +37,15 @@
 
 ROC AUC=0.735
 
+![PR Curve](pr_curve.png)
+
+### И
+
 ### Technologies
-Python
-Pandas
-NumPy
-Scikit-learn
-XGBoost
-LightGBM
-Imbalanced-learn (SMOTE)
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- LightGBM
+- Imbalanced-learn (SMOTE)
